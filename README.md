@@ -1,10 +1,10 @@
-# 🐧 Linux Commands & Scripts
+#  Linux Commands & Scripts
 
 A collection of useful Linux commands and small scripts I use or explore as a DevOps beginner.
 
 ---
 
-## 🔹 Useful Commands
+##  Useful Commands
 
 ```bash
 # Check disk usage
